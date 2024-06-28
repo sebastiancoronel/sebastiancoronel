@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastiancoronel&label=Profile%20views&color=0e75b6&style=flat" alt="sebastiancoronel" /> </p>
 
-- 🔭 I’m currently working with **Python doing Web Scraping and Web Development**
-
-- 🌱 I’m currently learning **Python and libraries for scraping**
-
-- 📫 How to reach me **sebastiancoronel.a@gmail.com**
+- I’m currently programming on NextJS and ReactJS**
+  
+- Also I've worked with **Python doing Web Scraping**
+  
+- 📫 How to reach me **sebastiancoronel.jobs@gmail.com**
 
 - 📄 Know about my experiences [https://sebastiancoronel.github.io/](https://sebastiancoronel.github.io/)
 
