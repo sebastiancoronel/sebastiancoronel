@@ -5,11 +5,12 @@
 
 - I’m currently programming on NextJS and ReactJS**
   
-- Also I've worked with **Python doing Web Scraping**
+- I've made some stuff and crawlers with **Python doing Web Scraping**
   
 - 📫 How to reach me **sebastiancoronel.jobs@gmail.com**
 
 - 📄 Know about my experiences [https://sebastiancoronel.github.io/](https://sebastiancoronel.github.io/)
+- 📄 Read me on my blog site: https://sebastiancoronel.beehiiv.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
