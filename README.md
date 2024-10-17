@@ -10,7 +10,7 @@
 - 📫 How to reach me **sebastiancoronel.work@gmail.com**
 
 - 📄My website [https://sebastiancoronel.github.io/](https://sebastiancoronel.github.io/)
-- 📄 Some side projects: https://sebastiancoronel.beehiiv.com/
+- 📄 I'm sharing coding experiences and projects here: https://sebastiancoronel.beehiiv.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
