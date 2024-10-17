@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sebastian</h1>
+<h1 align="center">Sebastian Coronel</h1>
 <h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastiancoronel&label=Profile%20views&color=0e75b6&style=flat" alt="sebastiancoronel" /> </p>
@@ -9,8 +9,8 @@
   
 - 📫 How to reach me **sebastiancoronel.jobs@gmail.com**
 
-- 📄 Know about my experiences [https://sebastiancoronel.github.io/](https://sebastiancoronel.github.io/)
-- 📄 Read me on my blog site: https://sebastiancoronel.beehiiv.com/
+- 📄My website [https://sebastiancoronel.github.io/](https://sebastiancoronel.github.io/)
+- 📄 Some side projects: https://sebastiancoronel.beehiiv.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
