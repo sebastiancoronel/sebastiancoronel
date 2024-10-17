@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastiancoronel&label=Profile%20views&color=0e75b6&style=flat" alt="sebastiancoronel" /> </p>
 
-- I’m currently developing on NextJS, ReactJS and NodeJS**. Now adding AI to my developments
+- I’m currently developing on **NextJS, ReactJS and NodeJS**. Now adding AI to my developments
   
 - I worked doing **Web Scraping with python** and combining both **Web development and Data extraction**
   
