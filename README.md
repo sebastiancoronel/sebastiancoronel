@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastiancoronel&label=Profile%20views&color=0e75b6&style=flat" alt="sebastiancoronel" /> </p>
 
-- I’m currently programming on NextJS and ReactJS**
+- I’m currently developing on NextJS, ReactJS and NodeJS**. Now adding AI to my developments
   
-- I've made some stuff and crawlers with **Python doing Web Scraping**
+- I worked doing **Web Scraping with python** and combining both **Web development and Data extraction**
   
-- 📫 How to reach me **sebastiancoronel.jobs@gmail.com**
+- 📫 How to reach me **sebastiancoronel.work@gmail.com**
 
 - 📄My website [https://sebastiancoronel.github.io/](https://sebastiancoronel.github.io/)
 - 📄 Some side projects: https://sebastiancoronel.beehiiv.com/
