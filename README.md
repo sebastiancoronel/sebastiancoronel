@@ -15,8 +15,18 @@ Beyond web development, I have experience in **data extraction and web scraping 
 
 I’ve gained professional experience across **Fintech, Bettech, Insurtech, EdTech, and PropTech** industries.
 
-My development process typically follows modern software lifecycles: **requirements, system design, implementation, testing, CI/CD, deployment, and continuous improvement.**  
+My development process usually follows a clear and modern engineering lifecycle:
+
+- Requirements analysis  
+- System design  
+- Implementation  
+- Testing  
+- CI/CD  
+- Deployment  
+- Continuous improvement
+
 I care about clean architecture, scalable systems, and maintainable code.
+
 ---
 
 ## 🚀 What I'm Working On
