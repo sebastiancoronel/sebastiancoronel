@@ -17,17 +17,11 @@ I’ve gained professional experience across **Fintech, Bettech, Insurtech, EdTe
 
 My development process typically follows modern software lifecycles: **requirements, system design, implementation, testing, CI/CD, deployment, and continuous improvement.**  
 I care about clean architecture, scalable systems, and maintainable code.
-
-I’m open to **Frontend, Backend, and Full-Stack roles**, and I’m also interested in positions focused on **system design and architecture**.  
-My long-term goal is to grow into leadership roles such as **Staff Engineer**, mentoring teams and driving technical direction.
-
 ---
 
 ## 🚀 What I'm Working On
 - Currently building with **Next.js, React.js, and Node.js**  
-- Latest project: **https://www.oceanmentor.pro/**  
-- Exploring the mix of **Web Development + Data Extraction**
-
+- Latest project: **https://www.oceanmentor.pro/**
 ---
 
 ## 📫 How to Reach Me
